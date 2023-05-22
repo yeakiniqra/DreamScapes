@@ -1,0 +1,20 @@
+Font Links
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Nunito+Sans:wght@700&display=swap" rel="stylesheet">
+
+font-family: 'Libre Baskerville', serif;
+font-family: 'Nunito Sans', sans-serif;
+
+Style.css
+
+ <link rel="stylesheet" href="style.css">
+
+Icons Links
+<link href="https://cdn.jsdelivr.net/npm/remixicon@3.2.0/fonts/remixicon.css" rel="stylesheet">
+
+Linear Color:
+
+background: rgb(2,0,36);
+background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 16%, rgba(87,128,136,1) 100%);
